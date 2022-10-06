@@ -3,10 +3,10 @@ An instant, zero-config Huahua blockchain.
 
 ```bash
 docker run -it --rm -p 9091:9091 -p 26657:26657 -p 1317:1317 -p 5000:5000 \
-  --name localhuahua ghcr.io/scrtlabs/localhuahua
+  --name localhuahua ghcr.io/lydia-pierce/localhuahua
 ```
 
-Full docs: https://docs.scrt.network/docs/development/local-huahua
+Full docs: https://docs.scrt.network/docs/development/local-secret
 
 # Source
 
