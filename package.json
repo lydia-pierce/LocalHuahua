@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lydia-pierce/LocalHuahua/issues"
   },
-  "homepage": "https://github.com/lydia-pierce/LocalHuahua#readme"
+  "homepage": "https://github.com/lydia-pierce/LocalHuahua#readme",
+  "publishConfig": {
+    "@lydia-pierce:registry": "https://npm.pkg.github.com"
+  }
 }
